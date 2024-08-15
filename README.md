@@ -1,2 +1,3 @@
-# day1
-this is my first git repository
+# Multiplication Table
+This is my first git repository
+Aurthor - Utsav U
