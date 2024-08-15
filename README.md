@@ -1,3 +1,3 @@
 # Multiplication Table
-This is my first git repository
+This is my first git repository.
 Aurthor - Utsav U
